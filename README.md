@@ -1,17 +1,17 @@
 # Laravel package for Fpdf
 
-[![Latest Stable Version](https://poser.pugx.org/codedge/laravel-fpdf/v/stable?format=flat-square)](https://packagist.org/packages/codedge/laravel-fpdf)
-[![Total Downloads](https://poser.pugx.org/codedge/laravel-fpdf/downloads?format=flat-square)](https://packagist.org/packages/codedge/laravel-fpdf)
-[![](https://github.com/codedge/laravel-fpdf/workflows/Tests/badge.svg)](https://github.com/codedge/laravel-fpdf/actions)
+[![Latest Stable Version](https://poser.pugx.org/codedge/laravel-fpdf/v/stable?format=flat-square)](https://packagist.org/packages/hectordufau/laravel-fpdf)
+[![Total Downloads](https://poser.pugx.org/hectordufau/laravel-fpdf/downloads?format=flat-square)](https://packagist.org/packages/hectordufau/laravel-fpdf)
+[![](https://github.com/hectordufau/laravel-fpdf/workflows/Tests/badge.svg)](https://github.com/hectordufau/laravel-fpdf/actions)
 [![StyleCI](https://styleci.io/repos/59506451/shield)](https://styleci.io/repos/59506451)
-[![License](https://poser.pugx.org/codedge/laravel-fpdf/license?format=flat-square)](https://packagist.org/packages/codedge/laravel-fpdf)
+[![License](https://poser.pugx.org/hectordufau/laravel-fpdf/license?format=flat-square)](https://packagist.org/packages/hectordufau/laravel-fpdf)
 
 Using [FPDF](http://www.fpdf.org/) made easy with Laravel. See [FPDF homepage](http://www.fpdf.org/) for more information about the usage.
 
 ## Installation using [Composer](https://getcomposer.org/)
 
 ```sh
-composer require codedge/laravel-fpdf
+composer require hectordufau/laravel-fpdf
 ```
 
 ## Configuration
